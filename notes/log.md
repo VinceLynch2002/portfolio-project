@@ -12,4 +12,9 @@
 - Created GitHub repo `portfolio-project` and pushed
 - Started this log under notes/
 
-**Next:** pick tickers, pull price data, run a baseline backtest
+## 2026-10-30: First code
+- Picked 11 ETFs across stocks, bonds, and real assets (plus BIL as cash-equivalent)
+    - BIL holds T-Bills which aren't cash but behaves like it with its short maturity and liquidity
+- Stored tickers and weights together in a dictionary
+- Downloaded adjusted prices from 2015 with yfinance
+- Checked data shape and missing values
