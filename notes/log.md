@@ -18,3 +18,6 @@
 - Stored tickers and weights together in a dictionary
 - Downloaded adjusted prices from 2015 with yfinance
 - Checked data shape and missing values
+
+## 2026-11-02: Practice files
+- Added 3 practice files for numpy, pandas, and yfinance based off what their source documents say. Reason?... knowing what it goes is good but why it does what it does (each library) is great.
