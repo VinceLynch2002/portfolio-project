@@ -21,3 +21,9 @@
 
 ## 2026-11-02: Practice files
 - Added 3 practice files for numpy, pandas, and yfinance based off what their source documents say. Reason?... knowing what it goes is good but why it does what it does (each library) is great.
+
+## 2026-11-03/04: NumPy
+- continued to work through NumPy source documents and lectures to deepen understanding from what to why.
+
+## 2026-11-05: Continuation of learning and committing
+- updating previous last few days work to GitHub
