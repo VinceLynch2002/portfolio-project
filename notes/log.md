@@ -27,3 +27,10 @@
 
 ## 2026-11-05: Continuation of learning and committing
 - updating previous last few days work to GitHub
+
+## 2026-11-09: Risk and Returns
+- updating any previous work to GitHub
+- worked on returns and risks of stock, portfolios, and indices
+- calculated a very rough sharpe ratio using arrays
+- plotted normalized returns to see growth of stocks compared to each other as well as specific stocks compared to market
+- all work on data.ipynb
