@@ -34,3 +34,5 @@
 - calculated a very rough sharpe ratio using arrays
 - plotted normalized returns to see growth of stocks compared to each other as well as specific stocks compared to market
 - all work on data.ipynb
+## 2026-11-10: Covariance and Correlation start
+- worked on covariance and correlation of Apple and Microsoft using the risk data returns
