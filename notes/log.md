@@ -36,7 +36,7 @@
 - all work on data.ipynb
 ## 2026-11-10: Covariance and Correlation start
 - worked on covariance and correlation of Apple and Microsoft using the risk data returns
-## 2025-11-11: variance and volatility of a portfolio
+## 2026-11-11: variance and volatility of a portfolio
 - continuing with the risk data returns, together as we portfolio, we use them to find the portfolio variance and volatility
 - we used matrix multiplication (dot product) with examples to show how to get the variance (and from that the volatility)
 ## 2026-11-12: Calculating diversifiable and non-diversifiable risk:
