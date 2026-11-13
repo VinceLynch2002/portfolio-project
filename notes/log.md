@@ -36,3 +36,12 @@
 - all work on data.ipynb
 ## 2026-11-10: Covariance and Correlation start
 - worked on covariance and correlation of Apple and Microsoft using the risk data returns
+## 2025-11-11: variance and volatility of a portfolio
+- continuing with the risk data returns, together as we portfolio, we use them to find the portfolio variance and volatility
+- we used matrix multiplication (dot product) with examples to show how to get the variance (and from that the volatility)
+## 2026-11-12: Calculating diversifiable and non-diversifiable risk:
+- manipulated the formula for portfolio variance to find the div and non div risk
+- showed a little bit of "proof" on why you need single brackets vs double brackets for risk data return variance for each apple and microsoft
+    - as well as "proof" for splitting risk into 2 groups (div and non div risk) for why we cant easily take the square root of each separately to get them in normal % terms
+- showed the usefulness of the squared % (variance) in terms of % share of the portfolio which is diversifiable and the part that is not
+- goal for tomorrow: understand the "N" term with 1/N and (N-1)/N (and whatever else I am yet to know)
