@@ -45,3 +45,7 @@
     - as well as "proof" for splitting risk into 2 groups (div and non div risk) for why we cant easily take the square root of each separately to get them in normal % terms
 - showed the usefulness of the squared % (variance) in terms of % share of the portfolio which is diversifiable and the part that is not
 - goal for tomorrow: understand the "N" term with 1/N and (N-1)/N (and whatever else I am yet to know)
+## 2026-11-13: Understanding math behind portfolio variance and testing larger portfolio for diversification
+- studied up on portfolio theory involving what I lacked in understanding yesterday
+- created data2 in the practice folder to test the diversification benefits with a portfolio of 10 stocks vs just 2
+- goal for tomorrow: understand why finance theory uses log returns vs simple returns, expand upon my 10 stock portfolio with testing, and possibly move onto regression analysis
