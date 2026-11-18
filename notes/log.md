@@ -49,3 +49,7 @@
 - studied up on portfolio theory involving what I lacked in understanding yesterday
 - created data2 in the practice folder to test the diversification benefits with a portfolio of 10 stocks vs just 2
 - goal for tomorrow: understand why finance theory uses log returns vs simple returns, expand upon my 10 stock portfolio with testing, and possibly move onto regression analysis
+## 2026-11-17: Created regression folder and ran regression using yfinance data
+-updated my knowledge on regression analysis
+-ran a practice regression: APPL vs 10-yr treasury yield
+    - found that it was statistically significant given the data size, but the daily 10-yr treasury yield change only accounted for 0.7% of the variation in Apple's daily returns (very weak relationship)
