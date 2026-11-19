@@ -53,3 +53,9 @@
 -updated my knowledge on regression analysis
 -ran a practice regression: APPL vs 10-yr treasury yield
     - found that it was statistically significant given the data size, but the daily 10-yr treasury yield change only accounted for 0.7% of the variation in Apple's daily returns (very weak relationship)
+## 2026-11-18: Markowitz Portfolio Theory
+- reviewed Markowitz's theory on portfolio return given a level of risk
+- ran simulation of a 2 stock portfolio since 2010 of Apple and Microsoft
+    - ran 1000 different combinations of the weights of my portfolio
+    - plotted the data onto a scatter plot to see a minimum variance curve
+    - then found the exact global minimum variance point on the graph to see what is the return I get given the lowest volatility on the graph
