@@ -59,3 +59,12 @@
     - ran 1000 different combinations of the weights of my portfolio
     - plotted the data onto a scatter plot to see a minimum variance curve
     - then found the exact global minimum variance point on the graph to see what is the return I get given the lowest volatility on the graph
+## 2026-11-20: CAPM and Beta
+- Reviewed Beta formulation and ran beta estimate for Apple
+- worked on simulating an expected return of apple using the Capital Asset Pricing Model
+    - Used Apples estimated Beta with our estimated Market return (snp proxy) since 2010 using simple returns over log returns.
+    - For Risk-free rate, we actually used the recent 10-year treausry yield as our proxy instead of a regular number (say.... 2.5%)
+## 2026-11-23: Sharpe Ratio
+- Using our expected return of Apple using the CAPM, we used that and our treasury yield in the numerator for our sharpe.
+    - For the denominator, we used the simple returns of apple since 2010 with the standard deviation function (square rooting time as well (ie 250)) to get the standard deviation of apples yearly estimated return.
+- Together, we created an estimate of apples sharpe ratio which lines up well with expected sharpe ratios of single large cap stocks
